@@ -1,5 +1,10 @@
 # writeup for "RF Math in Space" task in Space Heroes CTF
 
+### description:
+>### I'm sure no ones listening....right?!
+>Someone thought it would be a good idea to transmit their access keys to their constellation in the clear. Luckily you have a subscription to an RF monitoring service.
+
+
 So as a task we are given with two files: `samples.bin` and `generate_samples.grc`. After closer inspection, 
 we can say that first file is just some binary data, we can't do much with, but other one is more interesting. 
 After openning it in any text exitor, we can see it has some YAML-like structure:
