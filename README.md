@@ -5,7 +5,8 @@
 >Someone thought it would be a good idea to transmit their access keys to their constellation in the clear. Luckily you have a subscription to an RF monitoring service.
 
 
-So as a task we are given with two files: `samples.bin` and `generate_samples.grc`. After closer inspection, 
+So as a task we are given with two files: [samples.bin](https://drive.google.com/file/d/1-6QrcO8_wc0NJ1stArNTyhseiaWisl2X/view?usp=sharing) 
+and [generate_samples.grc](generate_samples.grc). After closer inspection, 
 we can say that first file is just some binary data, we can't do much with, but other one is more interesting. 
 After openning it in any text exitor, we can see it has some YAML-like structure:
 ```
